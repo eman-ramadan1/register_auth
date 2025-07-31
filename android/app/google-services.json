@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "160260661493",
-    "project_id": "authproject-566bc",
-    "storage_bucket": "authproject-566bc.firebasestorage.app"
+    "project_number": "70151295171",
+    "project_id": "fireauth-eb88a",
+    "storage_bucket": "fireauth-eb88a.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:160260661493:android:984615a980e8b7363d25bc",
+        "mobilesdk_app_id": "1:70151295171:android:20e9e6d4e140b8b1299276",
         "android_client_info": {
           "package_name": "com.example.register_auth"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyD2q-pBnl2VxlEGyPerWvKGuu36tftByCc"
+          "current_key": "AIzaSyDBaJjEcH4yLmNh0C7r2xiou2QFciEWg88"
         }
       ],
       "services": {
